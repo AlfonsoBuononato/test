@@ -15,7 +15,6 @@ public class Main {
 		Studente s1 = new Studente("nicola", "berlusconi");
 		System.out.println(Persona.ciao);
 		p2.ciao = "sono io";
-		System.out.println(p2.ciao);
 		System.out.println(p3.ciao);
 		
 		
